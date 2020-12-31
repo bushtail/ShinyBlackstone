@@ -1,0 +1,6 @@
+name:       ShinyBlackstone
+main:       ca.evannosich.ShinyBlackstone
+version:    1.0
+description: > 
+    Craft Gilded Blackstone
+commands:
